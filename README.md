@@ -1,8 +1,8 @@
-<h2 align="left">👋 我是xlxxcc, 欢迎来到我的github！</h2>
-<p align="right">
+<div algin="left" style="font-size: 24px;">👋 我是xlxxcc, 欢迎来到我的github！</div>
+<div align="right">
   <a href="https://xlxxcc.github.io/">博客</a> •
   <a href="https://xlxxcc.github.io/">网站</a>
-</p>
+</div>
 
 <!--
 **xlxxcc/xlxxcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanXinzi-AI)](https://github.com/HanXinzi-AI)
 
 -------
+
 **📝 最新项目&文章**
 
 - [**Python资源汇集列表**](https://github.com/HanXinzi-AI/awesome-python-resources): 周更新的各种应用方向与主题的资源汇集列表
@@ -44,4 +45,3 @@ Here are some ideas to get you started:
 - [**NLP项目和资源大全**](https://github.com/HanXinzi-AI/awesome-NLP-resources): 周更新的各种NLP板块涉及的项目和工具资源汇集列表
 - [**CV项目和资源大全**](https://github.com/HanXinzi-AI/awesome-computer-vision-resources): 周更新的各种CV板块涉及的项目和工具资源汇集列表
 
-<p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="visitors"> </p>
