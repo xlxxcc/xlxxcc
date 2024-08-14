@@ -1,16 +1,9 @@
-
-<div>
-  <span style="font-size: 1.5em">👋 我是xlxxcc, 欢迎来到我的github！    </span>
-  <a href="https://xlxxcc.github.io/">博客</a> •
-  <a href="https://xlxxcc.github.io/">网站</a>
-</div>
-
 <h2>
   👋 我是xlxxcc, 欢迎来到我的github！ 
-  <font size="16px;">
-     <a href="https://xlxxcc.github.io/">博客</a> •
-      <a href="https://xlxxcc.github.io/">网站</a>
-  </font>
+
+     <a href="https://xlxxcc.github.io/">  <font size="16px;">博客 </font></a> •
+     <a href="https://xlxxcc.github.io/">网站</a>
+ 
 </h2>
 
 ## 👋 我是xlxxcc, 欢迎来到我的github！  <font size="16px;"><a href="https://xlxxcc.github.io/">博客</a> •  <a href="https://xlxxcc.github.io/">网站</a> </font>
