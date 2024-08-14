@@ -1,7 +1,8 @@
 <h2 style="margin-bottom: 20px;">
   👋 我是xlxxcc, 欢迎来到我的github！ 
   <a href="https://xlxxcc.github.io/">博客</a> •
-  <a href="https://xlxxcc.github.io/">网站</a>
+  <a href="https://xlxxcc.github.io/">网站</a> •
+  <a href="https://blog.csdn.net/xlxxcc?type=blog">CSDN</a>
 </h2>
 
 <!--
