@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 📊 **本周github主要开发时间**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanXinzi-AI)](https://github.com/HanXinzi-AI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlxxcc)](https://github.com/xlxxcc)
 
 -------
 
