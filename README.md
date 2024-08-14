@@ -1,5 +1,5 @@
-<div algin="left">
-  <span sytle="font-size: 1.5em">👋 我是xlxxcc, 欢迎来到我的github！</span>
+<div>
+  <span style="font-size: 1.5em">👋 我是xlxxcc, 欢迎来到我的github！    </span>
   <a href="https://xlxxcc.github.io/">博客</a> •
   <a href="https://xlxxcc.github.io/">网站</a>
 </div>
