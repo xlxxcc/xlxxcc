@@ -4,7 +4,6 @@
   <a href="https://xlxxcc.github.io/">网站</a>
 </h2>
 
-
 <!--
 **xlxxcc/xlxxcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,17 +17,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 微博：[@韩信子AI](https://weibo.com/u/7516559193)
+- 知乎：[韩信子](http://www.zhihu.com/people/han-xin-zi-94)
+- 公众号：
 -->
 
 - 🔭 10年数据挖掘与算法研发老🐶，历任**百度，阿里，美团点评 算法专家**
 - 🌱 热衷于**知识分享与传播**
 - 💬 熟悉**Python，Java，机器学习，自然语言处理，推荐算法，计算广告**
-<!--
-- 📫 微博：[@韩信子AI](https://weibo.com/u/7516559193)
-- 知乎：[韩信子](http://www.zhihu.com/people/han-xin-zi-94)
-- 公众号：
-- 
--->
 
 -------
 
