@@ -1,15 +1,9 @@
-<h2>
+<h2 style="margin-bottom: 20px;">
   👋 我是xlxxcc, 欢迎来到我的github！ 
-     <a href="https://xlxxcc.github.io/">  <font size="16px;">博客 </font></a> •
-     <a href="https://xlxxcc.github.io/">网站</a>
- 
+  <a href="https://xlxxcc.github.io/">博客</a> •
+  <a href="https://xlxxcc.github.io/">网站</a>
 </h2>
 
-<font size=100> sdfsdf </font>
-
-## 👋 我是xlxxcc, 欢迎来到我的github！  <font size="16px;"><a href="https://xlxxcc.github.io/">博客</a> •  <a href="https://xlxxcc.github.io/">网站</a> </font>
-
--------
 
 <!--
 **xlxxcc/xlxxcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
