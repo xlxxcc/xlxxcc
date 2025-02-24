@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 * 🌐 中文 · English
 * ⏰ 7:00 - 23:30 「[UTC+8](https://time.is/UTC+8)」
-* 🏡 Index: [sku.moe](https://sku.moe)
-* 🔗 Blog: [blog.sku.moe](https://blog.sku.moe)
+* 🏡 Index: [xlxxcc](https://xlxxcc.github.io)
+* 🔗 Blog: [blog.xlxxcc](https://xlxxcc.github.io)
 
